@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Metallurgical Engineering and Material Science at IIT Bombay but I am an aspiring Electrical Engineer :).
 - 💞️ My favourite languages include C++,python,MATLAB.I am mostly active on C++.
 - 📫 How to reach me ... Come to Kerala...
-- 😄 I code just to exercise mind ,just to abosrb the logic aptitude and the critical reasoning each DSA problems provide.
+- 😄 I code just to exercise mind ,just to absorb the logic aptitude essence and the critical reasoning each DSA problems provide.
 - ⚡ Fun fact: People assumes I study a lot.
 
 <!---
